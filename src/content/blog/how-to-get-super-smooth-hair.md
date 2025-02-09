@@ -7,7 +7,7 @@ heroImage: '/how-to-get-super-smooth-hair.jpg'
    
 # How Hair Oil Changed My Hair Game! ✨
 
-Hey everyone! 👋 Today I want to share something that's honestly been a total game changer for my hair - hair oil! I know what you're thinking - putting oil in your hair sounds kinda weird at first (my mom definitely gave me the side-eye 👀), but trust me on this one!
+Hey everyone! Today I want to share something that's honestly been a total game changer for my hair - hair oil! I know what you're thinking - putting oil in your hair sounds kinda weird at first (my mom definitely gave me the side-eye), but trust me on this one!
 
 ## What is Hair Oil? 🤔
 
@@ -16,7 +16,7 @@ Hair oil is basically a miracle in a bottle made from natural oils like coconut,
 ## Why Hair Oil is Worth the Hype ⭐️
 
 - Makes your hair super soft
-- Helps with frizzy hair (fr fr!)
+- Helps with frizzy hair
 - Gives you that natural shine ✨
 - Prevents split ends
 - Supports healthy hair growth
@@ -24,10 +24,10 @@ Hair oil is basically a miracle in a bottle made from natural oils like coconut,
 
 ## How to Use Hair Oil (The Right Way!) 💁‍♀️
 
-Getting the amount right is key - you don't want to look like you haven't washed your hair in forever!
+Getting the amount right is key - you don't want to look like you haven't washed your hair in forever.
 
 ### For Daily Use:
-1. Start small - like tiny tiny (smaller than a dime)
+1. Start small - like tiny tiny
 2. Warm it up between your hands
 3. Focus on your ends first
 4. Work your way up (but stay away from your roots!)
@@ -60,11 +60,10 @@ Just some heads up from my own fails:
 - After washing (when hair's still a bit wet)
 - Before sleeping
 - Before swimming
-- Before using hot tools
 
 ## My Results 📸
 
-It's been about six months since I started using hair oil, and ngl, the difference is pretty amazing! My hair used to be so hard to manage, but now it's actually doing what I want it to do. Even my friends have been asking what I've been doing differently!
+It's been about six months since I started using hair oil, and the difference is pretty amazing! My hair used to be so hard to manage, but now it's actually doing what I want it to do. 
 
 ## Final Thoughts 💭
 
