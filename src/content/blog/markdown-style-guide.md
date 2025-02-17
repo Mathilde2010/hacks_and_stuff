@@ -17,7 +17,7 @@ Here's my little confession: I'm literally the most uncreative person ever. Like
 - I don't have to spend hours choosing what to make
 - If she can do it, I know I can too!
 
-Plus, it's kind of become our thing now - she makes something cool, and I'm like "teach me!" 😂
+Plus, it's kind of become our thing now - she makes something cool, and I'm like "teach me!" 
 
 ## Why Crocheting is Actually Perfect for TV Time ⭐️
 
