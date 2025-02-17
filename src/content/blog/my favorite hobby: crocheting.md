@@ -1,6 +1,6 @@
 ---
 title: 'My favorite hobby: crocheting 🧶'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
+description: 'this is how I got into crocheting'
 pubDate: 'Feb 16, 2025'
 heroImage: '/images/crochet.jpg'
 ---
