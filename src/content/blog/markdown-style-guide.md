@@ -7,9 +7,9 @@ heroImage: '/images/crochet.jpg'
 
 Hey everyone! Today I want to talk about my favorite hobby - crocheting! And no, it's not just something for grandmas (though they're pretty awesome at it). Let me tell you how I actually got started!
 
-## My Crochet Journey 🤔
+## My Crochet Journey
 
-So here's the thing - I literally started crocheting because my sister randomly picked it up one day! I was always looking for something to do while watching TV (anyone else hate just sitting still? 😅), and seeing her crochet made me think "hey, why not?"
+So here's the thing - I literally started crocheting because my sister randomly picked it up one day! I was always looking for something to do while watching TV (anyone else hate just sitting still?), and seeing her crochet made me think "hey, why not?"
 
 Here's my little confession: I'm literally the most uncreative person ever 🙈 Like, for real - everything I make is basically just copying what my sister has already made! But you know what? It actually works out pretty great because:
 - I already know the project will look cute
