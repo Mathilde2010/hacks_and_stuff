@@ -1,8 +1,8 @@
 ---
-title: 'Markdown Style Guide'
+title: 'My favorite hobby: crocheting 🧶'
 description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
-pubDate: 'Jun 19 2024'
-heroImage: '/blog-placeholder-1.jpg'
+pubDate: 'Feb 16, 2025'
+heroImage: '/images/crochet.jpg'
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
@@ -212,3 +212,6 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+
+Foto von <a href="https://unsplash.com/de/@joony?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">JOONY</a> auf <a href="https://unsplash.com/de/fotos/grunes-weisses-und-gelbes-strickgewebe-VleAEtGmQH0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
