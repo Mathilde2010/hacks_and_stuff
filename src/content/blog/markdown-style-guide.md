@@ -7,7 +7,7 @@ heroImage: '/images/crochet.jpg'
 
 # How I Got Into Crocheting (And Why I Love It!) 🧶
 
-Hey everyone! 👋 Today I want to talk about my favorite hobby - crocheting! And no, it's not just something for grandmas (though they're pretty awesome at it). Let me tell you how I actually got started!
+Hey everyone! Today I want to talk about my favorite hobby - crocheting! And no, it's not just something for grandmas (though they're pretty awesome at it). Let me tell you how I actually got started!
 
 ## My Crochet Journey 🤔
 
@@ -37,7 +37,7 @@ Here's what I got as a beginner (basically copied my sister's supplies 😅):
 - Some yarn (acrylic is perfect for beginners!)
 - Stitch markers (or just use hair ties like I did at first)
 - Scissors
-- YouTube tutorials (for when my sister isn't around to help!)
+- YouTube tutorials
 
 ## Cool Things You Can Make 🌟
 
@@ -45,7 +45,7 @@ Or in my case, cool things my sister makes that I end up copying:
 - Cute plushies
 - Cozy scarves and beanies
 - Phone cases
-- Crop tops (yes, really!)
+- Crop tops
 - Bags and pouches
 - Blankets (if you're feeling ambitious)
 
@@ -53,25 +53,24 @@ Or in my case, cool things my sister makes that I end up copying:
 
 - Start with simple projects (or whatever your more experienced friend/sibling recommends!)
 - Light-colored yarn is easier to see your stitches
-- Count your stitches (learned this the hard way 😅)
+- Count your stitches (learned this the hard way)
 - Take breaks when your hands get tired
 - Having a crochet buddy helps so much
 - Save your yarn labels (they have important info!)
 
 ## My Favorite Projects So Far 📸
 
-The first thing I made was... well, let's just say it was supposed to be a square but ended up more like a triangle 😂 But now I can make all sorts of cool stuff! My favorites have been:
-- A cute little bear plushie (that my sister made first, obviously)
-- A chunky scarf that everyone asks about
-- Phone pouches for my friends
-- A crop top that I'm actually super proud of (yes, copied from sis!)
+The first thing I made was... well, let's just say it was supposed to be a square but ended up more like a triangle. But now I can make all sorts of cool stuff! My favorites have been:
+- A cute little bag (that my sister made first, obviously)
+- A chunky scarf
+- A crop top that I'm actually super proud of 
 
 ## Why You Should Try It 💫
 
 Crocheting isn't just about making stuff - it's actually really chill and satisfying. Plus:
 - It's perfect for watching TV or listening to podcasts
-- You can make unique gifts for friends (or copy someone else's ideas like me!)
-- It's a great way to be creative (or copy creatively 😉)
+- You can make unique gifts for friends
+- It's a great way to be creative (or copy creatively lol)
 - The crochet community is super nice and helpful
 - You'll feel amazing when you finish a project!
 
@@ -81,20 +80,15 @@ If you want to try crocheting:
 1. Start with basic stitches
 2. Watch lots of tutorials
 3. Don't get discouraged if your first try looks weird
-4. Find a crochet buddy (or a sister to copy!)
+4. Find a crochet buddy 
 5. Take pictures of your progress!
 
 ## Final Thoughts 💕
 
-Crocheting might not seem cool at first, but it's honestly become one of my favorite things to do! Even if you're not the most creative person (hi, that's me! 👋), you can still make awesome stuff. Sometimes the best way to start is just by copying someone else until you feel confident enough to try your own things - and that's totally okay!
+Crocheting might not seem cool at first, but it's honestly become one of my favorite things to do! Even if you're not the most creative person (hi, that's me!), you can still make awesome stuff. Sometimes the best way to start is just by copying someone else until you feel confident enough to try your own things - and that's totally okay!
 
-Thanks for reading! Drop a comment if you want to know more about getting started - or if you're also part of the "copy your sibling's projects" club! 😂✨
+Thanks for reading!
 
-Happy crocheting!
-[Your Name]
-
----
-*Tell me in the comments: do you also have a crafty sibling you copy from? ⬇️*
 
 Foto von <a href="https://unsplash.com/de/@joony?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">JOONY</a> auf <a href="https://unsplash.com/de/fotos/grunes-weisses-und-gelbes-strickgewebe-VleAEtGmQH0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
