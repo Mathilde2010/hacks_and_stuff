@@ -5,8 +5,6 @@ pubDate: 'Feb 16, 2025'
 heroImage: '/images/crochet.jpg'
 ---
 
-# How I Got Into Crocheting (And Why I Love It!) 🧶
-
 Hey everyone! Today I want to talk about my favorite hobby - crocheting! And no, it's not just something for grandmas (though they're pretty awesome at it). Let me tell you how I actually got started!
 
 ## My Crochet Journey 🤔
