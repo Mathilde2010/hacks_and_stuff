@@ -7,7 +7,6 @@ heroImage: '/blog-placeholder-3.jpg'
 Okay, yes — I know I’m phone addicted. Judge me. Cancel me. Whatever. I’m literally peak Gen Z, so what do you expect? I stand by it. I love my phone. I need my phone. It’s like my emotional support water bottle, but with a screen. If someone took it away, I’d probably just curl up in a corner and cry. So here they are — the apps I use every single day, without fail.
 
 
-
 💬 WhatsApp / Signal
 My main place for the big talks. Long messages, deep convos, voice notes (yes, I love sending voice notes, sorry not sorry — I’m lazy and hate typing). Honestly, I use these for everything — school stuff, gossip, sending 5-minute audios about my day. It’s not really a VIP list thing, it’s just that for a long time, I literally didn’t have another messenger, so everyone’s here. WhatsApp is like my main hub, and Signal is my “just in case” app… even though no one’s spying on me. Probably. 👀
 
