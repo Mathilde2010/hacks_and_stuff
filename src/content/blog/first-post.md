@@ -1,8 +1,8 @@
 ---
 title: 'Apps I use everyday'
 pubDate: 'Aug 12, 2025'
-heroImage: 'Foto von <a href="https://unsplash.com/de/@williamtm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">William Hook</a> auf <a href="https://unsplash.com/de/fotos/space-gray-iphone-x-9e9PD9blAto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-      '
+description: 'Hier findest du die ultimativen Hacks für super weiches und glänzendes Haar!'
+heroImage: '/images/handy-apps.jpg'
 ---
 
 Okay, yes — I know I’m phone addicted. Judge me. Cancel me. Whatever. I’m literally peak Gen Z, so what do you expect? I stand by it. I love my phone. I need my phone. It’s like my emotional support water bottle, but with a screen. If someone took it away, I’d probably just curl up in a corner and cry. So here they are — the apps I use every single day, without fail.
