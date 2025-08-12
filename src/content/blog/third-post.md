@@ -1,16 +1,40 @@
 ---
-title: 'Third post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 22 2022'
+title: 'this one is to my dad: why i should download instagram'
+description: 'instagram reasons'
+pubDate: 'Aug 12, 2025'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+okay so like my parents are lowkey confusing because sometimes they’re super strict and sometimes they’re chill?? like sometimes i can stay out super late but then other times i can’t even go to the mall lmaooo 😭 but the ONE thing that’s always a no is social media and honestly it’s killing me
+my current mission: convince my dad to let me get instagram. literally ALL my friends have it and i just wanna fit in yk?? 😭😭 he told me as a challenge that i have to finish programming this website first so that’s what i’m doing rn.
+and dad if you’re reading this - here are the reasons why you should totally let me download insta!! 💕
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+1. literally everyone my age has it 👥
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+okay but fr dad, i’m probably the ONLY person in my entire grade who doesn’t have instagram. like when my friends are talking about posts and stories and stuff, i’m just sitting there like 🧍‍♀️ because i have no clue what they’re talking about.
+it’s honestly so awkward when they’re like “omg did you see what she posted” and i have to be like “no… i don’t have insta” and then they all look at me like i’m from the stone age or something 💀 i just wanna be part of the conversation without feeling like a total outcast!!
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+2. it’s actually educational (no really!!) 📚
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+i KNOW you think it’s just people posting random selfies but there’s actually so much cool educational content on there!! like there are accounts about science, art, books, current events - literally everything.
+my friend showed me this account that explains history in a really fun way, and there are artists who post tutorials and writers who share book recommendations. it’s basically like having access to mini lessons about stuff i’m actually interested in. way more fun than regular studying lol 🤓
+
+3. i can stay connected with friends 💬
+
+like when people move away or switch schools, instagram is how we stay in touch!! and group chats on insta are where people plan hangouts and share updates about what’s going on.
+right now when my friends make plans, they do it in instagram group chats and then someone has to remember to text me separately. it’s so much easier if i could just be in the group chat with everyone else instead of always being the last one to know about stuff 😅
+
+4. it’s actually safer than you think 🔒
+
+dad i promise i know about internet safety and privacy settings!! like i can make my account private so only people i actually know can see my stuff. and i won’t accept random followers or talk to strangers, obviously.
+instagram has way better safety features now than it used to, and honestly it’s probably safer than some other apps i already have. plus you can literally see everything i post if you want - it’s not like i’m gonna hide anything sketchy lol. i just wanna post cute pics with my friends and see what everyone’s up to!
+
+5. it’ll help with my photography and creativity 📸
+
+you’re always saying i should have more hobbies and be creative, right?? well instagram would actually help with that! like i’d start paying more attention to photography and making my posts look good.
+there are so many creative challenges and trends that actually look really fun, and seeing other people’s art and photography would inspire me to try new things. plus i could follow accounts related to my interests and discover new hobbies or skills. it’s basically like a creative community where i can learn from other people my age!
+
+sooo… pretty convincing arguments right?? 😏 i mean i literally finished programming this whole website just to make this post so that shows i’m responsible and dedicated lol
+i promise i’ll be super careful and responsible with it, and you can check my account whenever you want. i just really wanna be part of what everyone else is doing and not feel left out all the time 🥺
+
+love you!! please consider it?? 💕✨
