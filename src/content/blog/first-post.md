@@ -1,6 +1,5 @@
 ---
 title: 'Apps I use everyday'
-description: 'Dont judge!'
 pubDate: 'Aug 12, 2025'
 heroImage: '/blog-placeholder-3.jpg'
 ---
