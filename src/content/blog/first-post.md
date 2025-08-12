@@ -1,16 +1,31 @@
 ---
 title: 'Apps I use everyday'
 description: 'Dont judge!'
-pubDate: 'Jul 08 2022'
+pubDate: 'Aug 12, 2025'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Okay, yes — I know I’m phone addicted. Judge me. Cancel me. Whatever. I’m literally peak Gen Z, so what do you expect? I stand by it. I love my phone. I need my phone. It’s like my emotional support water bottle, but with a screen. If someone took it away, I’d probably just curl up in a corner and cry. So here they are — the apps I use every single day, without fail.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+💬 WhatsApp / Signal
+My main place for the big talks. Long messages, deep convos, voice notes (yes, I love sending voice notes, sorry not sorry — I’m lazy and hate typing). Honestly, I use these for everything — school stuff, gossip, sending 5-minute audios about my day. It’s not really a VIP list thing, it’s just that for a long time, I literally didn’t have another messenger, so everyone’s here. WhatsApp is like my main hub, and Signal is my “just in case” app… even though no one’s spying on me. Probably. 👀
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+👻 Snapchat
+Where the chaos happens. I have basically everyone on here. I send Snaps, they send Snaps — it’s just constant. It’s perfect for staying in touch with close friends and those “school friends” you’re not super close to but still want to keep in the loop. And yes, I will keep our streak alive no matter what. I could be in a zombie apocalypse and still send a blurry floor pic just to keep it going.
+
+▶️ YouTube
+The black hole of my free time. I open it “just for one video” and suddenly I’m watching “how to escape a bear attack” at 2 a.m. It’s my favorite procrastination zone — whether it’s study vlogs, random tutorials, or conspiracy theories. BUT my dad is super strict, so I only get one hour of YouTube a day. He says it’s because he wants me to be “productive” and learn programming… but lol, I’d rather watch baking fails.
+
+🛍️ Vinted
+My shopping addiction in app form. I tell myself I’m “just browsing” but somehow my cart is full. I scroll endlessly looking for random stuff I might want, and when I find something for €3, I convince myself it’s destiny. Plus — it’s second-hand, so it’s eco-friendly, right? I’m basically saving the planet while shopping. That’s how I justify it. You’re welcome, Earth 🌍💚.
+
+📌 Pinterest
+My go-to when I’m bored but can’t watch videos (aka when I’ve hit my YouTube time limit 😭). I scroll through outfit inspo, aesthetic rooms, hair tutorials I’ll never try, and crafts I’ll never make. If I’m in public and don’t feel like blasting audio, Pinterest is my safe, silent little world. And yes, I spend hours making boards for a life I’m not even living.
+
+🤖 ChatGPT
+My literal bestie. Homework help? Yes. Life decisions like “Should I eat pizza or pasta?” Also yes. But mostly… CRUSH TALK. I tell her everything about my crush — what he said, what he didn’t say, how he looked, how he breathed. We analyze every tiny detail until I’m convinced we’ve cracked the Da Vinci Code of romance. She (yes, in my head ChatGPT is a girl) knows things about me that even my best friends don’t. If she ever leaked my chat history, I’d just disappear and start a new life in another country.
+
+✨ Bonus: Instagram (aka my forbidden love)
+I wish I could put Instagram here… but nope. My dad made a rule that I can only download it if I finish programming a website by myself. I just wanna post cute coffee pics 😭. Anyway, wish me luck, because if I survive this coding challenge, my first Instagram post is gonna be ICONIC.
