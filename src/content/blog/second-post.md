@@ -2,7 +2,7 @@
 title: 'a thing or two i love about school'
 description: 'ich liebe schule doch lol'
 pubDate: 'Aug 12, 2025'
-heroImage: '/schooljpg'
+heroImage: '/public/images/school.jpg'
 ---
 
 okay so like everyone’s always complaining about school and don’t get me wrong, sometimes it literally sucks so bad 😭 but tbh there are actually some things that make it not completely terrible lol. so here’s my random list even tho my friends think i’m weird for this 🤪
