@@ -2,7 +2,7 @@
 title: 'this one is to my dad: why i should download instagram'
 description: 'instagram reasons'
 pubDate: 'Aug 12, 2025'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/public/images/image copy.png'
 ---
 
 okay so like my parents are lowkey confusing because sometimes they’re super strict and sometimes they’re chill?? like sometimes i can stay out super late but then other times i can’t even go to the mall lmaooo 😭 but the ONE thing that’s always a no is social media and honestly it’s killing me
